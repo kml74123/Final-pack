@@ -15,14 +15,18 @@ http://github.com/kml74123/week7
 
 http://github.com/kml74123/week8
 
-week8 its a pre-midterm reivew and a 500 words on software Enginner
+Week8 its a pre-midterm reivew and a 500 words on software Enginner
 
-# week9 is the http://github.com/kml74123/midterm-script 
+Week9 is the http://github.com/kml74123/midterm-script 
 
+Week10 we are on Sprint Break
 
-http://github.com/kml74123/
+Week11 was the really late midterms and chapter 9 and 10 scripts.
 
-http://github.com/kml74123/
+http://github.com/kml74123/chapter9
+
+http://github.com/kml74123/chapter10
+
 
 
 
