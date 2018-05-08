@@ -51,17 +51,17 @@ http://github.com/kml74123/midterm-script
 # Final Project
 Team name is: Linuxstar 
 
-Person and role:
+Name and role:
 
-KongMenglee(Me): Test
+KongMenglee(Me): Test github: 
 
-ShueLee: Documnatation
+ShueLee: Documnatation github: https://github.com/ShueLee8226
 
-ChinouVang: Research
+ChinouVang: Research github: https://github.com/ChennisVang
 
-Mussie Asrat: Support
+Mussie Asrat: Support github: https://github.com/A2795
 
-Abshir Ali: Support
+Abshir Ali: Support github: https://github.com/caqlishire
 
 Our page in sootsplash.csci2461.com https://sootsplash.csci2461.com/linuxstar.html
 
