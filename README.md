@@ -28,13 +28,29 @@ http://github.com/kml74123/chapter9
 http://github.com/kml74123/chapter10
 
 
+http://github.com/kml74123/
+
+http://github.com/kml74123/
+
+http://github.com/kml74123/
+
+week15 window Managers and compiling software
+http://github.com/kml74123/500-words-commit
+
+
+
 
 
 
 
 # MidTerm really late 
-I did turn it into D2l Becuase i think it only for those who are late. Here the script so I get points for the really late midterm.
+I didn't turn it into D2l Becuase I think it was only for those who are late on their midterm. Here the script so I get points for the really late midterm.
 http://github.com/kml74123/midterm-script
+
+
+# Final Project
+Our team name is: Linuxstar 
+Our page in sootsplash.csci2461.com https://sootsplash.csci2461.com/linuxstar.html
 
 
 
