@@ -17,7 +17,7 @@ http://github.com/kml74123/week8
 
 Week8 its a pre-midterm reivew and a 500 words on software Enginner
 
-Week9 is the http://github.com/kml74123/midterm-script 
+Week9 is the midterm http://github.com/kml74123/midterm-script 
 
 Week10 we are on Sprint Break
 
@@ -32,7 +32,8 @@ http://github.com/kml74123/chapter10
 
 
 
-# MidTerm
+# MidTerm really late 
+I did turn it into D2l Becuase i think it only for those who are late. Here the script so I get points for the really late midterm.
 http://github.com/kml74123/midterm-script
 
 
