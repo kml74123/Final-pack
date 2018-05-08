@@ -52,10 +52,15 @@ http://github.com/kml74123/midterm-script
 Team name is: Linuxstar 
 Person and role:
 KongMenglee(Me): Test
+
 ShueLee: Documnatation
+
 ChinouVang: Research
+
 Mussie Asrat: Support
+
 Abshir Ali: Support
+
 Our page in sootsplash.csci2461.com https://sootsplash.csci2461.com/linuxstar.html
 
 
