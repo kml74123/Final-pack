@@ -28,14 +28,22 @@ http://github.com/kml74123/chapter9
 http://github.com/kml74123/chapter10
 
 
-http://github.com/kml74123/
+http://github.com/kml74123/week12
 
-http://github.com/kml74123/
+http://github.com/kml74123/week13
 
-http://github.com/kml74123/
+http://github.com/kml74123/week14
 
-week15 window Managers and compiling software
+week15 window Managers and compiling software and the script https://github.com/kml74123/week15
 http://github.com/kml74123/500-words-commit
+
+http://github.com/kml74123/
+
+http://github.com/kml74123/
+
+
+
+
 
 
 
