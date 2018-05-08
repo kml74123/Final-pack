@@ -1,11 +1,11 @@
 ### Final-pack
 
-###Weekly lab
+# Weekly lab
 
 
 
 
-###MidTerm
+# MidTerm
 http://github.com/kml74123/midterm-script
 
 
