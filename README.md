@@ -51,9 +51,11 @@ http://github.com/kml74123/midterm-script
 # Final Project
 Team name is: Linuxstar 
 
+Project board: https://github.com/kml74123/Web-Server-Team/projects/2
+
 Name and role:
 
-KongMenglee(Me): Test github: 
+KongMenglee(Me): Test github: https://github.com/kml74123
 
 ShueLee: Documnatation github: https://github.com/ShueLee8226
 
