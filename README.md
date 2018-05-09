@@ -30,7 +30,7 @@ http://github.com/kml74123/chapter10
 
 http://github.com/kml74123/week12
 
-Team report for week12: what webserver to install: Apche2 or nginx 
+Team report for week12: what web server to install: Apche2 or nginx 
 
 
 http://github.com/kml74123/week13
@@ -41,7 +41,7 @@ Team report week13: Learn how to install apache2 in ubuntu (successfully install
 
 http://github.com/kml74123/week14
 
-Team report week14: HOw to install public html in sootsplash
+Team report week14: How to install public html in sootsplash
 
 week15 window Managers and compiling software and the script https://github.com/kml74123/week15
 http://github.com/kml74123/500-words-commit
@@ -49,16 +49,6 @@ http://github.com/kml74123/500-words-commit
 https://github.com/kml74123/Week16
 
 Week17 is Final Exam and turn
-
-
-
-
-
-
-
-
-
-
 
 
 # MidTerm really late 
