@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo 'How to install apache'
+
+sleep 3
+
+echo 'get update'
+sudo apt-get update
+
+sleep3
+echo 'install apache2'
+sudo apt-get install apache2
+sleep3
+echo 'check web server'
+sudo systemctl status apache2
+
+
