@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo 'how to enable public html in sootsplash'
+sleep 3
+
+sudo a2enmod userdir
+
+echo 'restart it'
+systemctl restart apache2
+
+echo 'use cat to see the status'
+cat /etc/apache2/mods-enabled/userdir.conf
