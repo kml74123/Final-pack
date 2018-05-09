@@ -98,6 +98,33 @@ _sudo systemctl disable apache2_
 
 _sudo systemctl enable apache2_
 
+# enable public html sootsplash
+_sudo a2enmod userdir_
+
+_systemctl restart apache2_
+
+_cat /etc/apache2/mods-enabled/userdir.conf_
+
+# Create a public html
+_login in to your sootsplash_
+
+_mkdir public_html_
+
+_ls to check_
+
+_sudo nano /home/user/public_html/index.html
+
+<html>
+
+<body>
+Testing
+<html>
+
+<body>
+
+
+
+
 
 
 
