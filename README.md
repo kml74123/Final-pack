@@ -86,17 +86,17 @@ _sudo apt-get install apache2_
 _sudo systemctl status apache2_
 
 # stop, start,restart,reload disable, enable commands
-_sudo systemctl stop apache2
+_sudo systemctl stop apache2_
 
-_sudo systemctl start apache2
+_sudo systemctl start apache2_
 
-_sudo systemctl restart apache2
+_sudo systemctl restart apache2_
 
-_sudo systemctl reload apache2
+_sudo systemctl reload apache2_
 
-_sudo systemctl disable apache2
+_sudo systemctl disable apache2_
 
-_sudo systemctl enable apache2
+_sudo systemctl enable apache2_
 
 
 
