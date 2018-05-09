@@ -65,7 +65,7 @@ Name and role:
 
 KongMenglee(Me): Test github: https://github.com/kml74123
 
-ShueLee: Documnatation github: https://github.com/ShueLee8226
+ShueLee: Documentation github: https://github.com/ShueLee8226
 
 ChinouVang: Research github: https://github.com/ChennisVang
 
@@ -74,6 +74,27 @@ Mussie Asrat: Support github: https://github.com/A2795
 Abshir Ali: Support github: https://github.com/caqlishire
 
 Our page in sootsplash.csci2461.com https://sootsplash.csci2461.com/linuxstar.html
+
+
+# My documentation as testing for my team
+
+# Use Ubuntu to Install apache2
+_sudo apt-get update_
+_sudo apt-get install apache2_
+# check apache2 status
+_sudo systemctl status apache2_
+
+# stop, start,restart,reload disable, enable commands
+_sudo systemctl stop apache2
+_sudo systemctl start apache2
+_sudo systemctl restart apache2
+_sudo systemctl reload apache2
+_sudo systemctl disable apache2
+_sudo systemctl enable apache2
+
+
+
+
 
 
 
