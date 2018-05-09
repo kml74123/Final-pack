@@ -30,12 +30,12 @@ http://github.com/kml74123/chapter10
 
 http://github.com/kml74123/week12
 
-Team report for week12: ports use and what to install: Apche2 or nginx 
+Team report for week12: what webserver to install: Apche2 or nginx 
 
 
 http://github.com/kml74123/week13
 
-Team report week13: Learn how to install apache2 in ubuntu (sucesfful install)
+Team report week13: Learn how to install apache2 in ubuntu (successfully install)
 
 
 
