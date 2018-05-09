@@ -39,7 +39,7 @@ http://github.com/kml74123/500-words-commit
 
 https://github.com/kml74123/Week16
 
-http://github.com/kml74123/
+Week17 is Final Exam and turn
 
 
 
