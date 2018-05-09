@@ -29,15 +29,18 @@ http://github.com/kml74123/chapter10
 
 
 http://github.com/kml74123/week12
+
 Team report: ports use and what to install: Apche2 or nginx 
 
 
 http://github.com/kml74123/week13
+
 Team report: Learn how to install apache2 in ubuntu (sucesfful install)
 
 
 
 http://github.com/kml74123/week14
+
 Team report: HOw to install public html in sootsplash
 
 week15 window Managers and compiling software and the script https://github.com/kml74123/week15
