@@ -112,15 +112,7 @@ _mkdir public_html_
 
 _ls to check_
 
-_sudo nano /home/user/public_html/index.html
-
-<html>
-
-<body>
-Testing
-<html>
-
-<body>
+_sudo nano /home/user/public_html/index.html_
 
 
 
