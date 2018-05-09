@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo 'ssh into sootsplash'
+read -p "enter sootsplash name: " name
+ssh $name@sootsplash.csci2461.com
+
+echo 'now create the public html'
+mkdir public_html
+
+echo 'ls to check it"
+ls
+
+echo 'edit the web page'
+
+sudo nano/home/$name/public_html/index.html
